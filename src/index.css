@@ -112,3 +112,25 @@ body {
  	background: #47cf73;
 	color: rgb(255, 255, 255);
 }
+
+@media only screen and (max-width: 400px) {
+	.PINbutton {
+	  margin: unset;
+	
+	}
+	.PINbox {
+		left: 72%;
+		width: 250px;
+		top: 62%;
+	}
+
+	.PINbuttonclear { 
+		margin: unset;
+	}
+
+	.PINbuttonenter {
+		margin: unset;
+
+	}
+  }
+  
